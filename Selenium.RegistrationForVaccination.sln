@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31105.61
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Selenium.RegistrationForVaccination.ConsoleUI", "Selenium.RegistrationForVaccination.ConsoleUI\Selenium.RegistrationForVaccination.ConsoleUI.csproj", "{7DB197D8-8849-47FA-A760-A4BA3F5DB4ED}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Selenium.RegistrationForVaccination.Infrastructure", "Selenium.RegistrationForVaccination.Infrastructure\Selenium.RegistrationForVaccination.Infrastructure.csproj", "{11485C93-C062-47A1-AA3E-828182851D19}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Selenium.RegistrationForVaccination.Infrastructure.Tests", "Selenium.RegistrationForVaccination.Infrastructure.Tests\Selenium.RegistrationForVaccination.Infrastructure.Tests.csproj", "{6B1256A4-3DA8-4BCB-9A82-572425CCBA9A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7DB197D8-8849-47FA-A760-A4BA3F5DB4ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7DB197D8-8849-47FA-A760-A4BA3F5DB4ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7DB197D8-8849-47FA-A760-A4BA3F5DB4ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7DB197D8-8849-47FA-A760-A4BA3F5DB4ED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{11485C93-C062-47A1-AA3E-828182851D19}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11485C93-C062-47A1-AA3E-828182851D19}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11485C93-C062-47A1-AA3E-828182851D19}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11485C93-C062-47A1-AA3E-828182851D19}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6B1256A4-3DA8-4BCB-9A82-572425CCBA9A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B1256A4-3DA8-4BCB-9A82-572425CCBA9A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B1256A4-3DA8-4BCB-9A82-572425CCBA9A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B1256A4-3DA8-4BCB-9A82-572425CCBA9A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {05C544B7-960F-46FE-95C2-5FFD6740D22B}
+	EndGlobalSection
+EndGlobal
